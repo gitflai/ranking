@@ -25,10 +25,10 @@ rank.drop(['Nome'], axis = 1, inplace = True)
 
 col1, col2 = st.beta_columns(2) 
 
-if col1.button('Clique aqui para ver o ranking geral da competição'):
+if col1.button('Clique aqui para ver o RANKING GERAL DA COMPETIÇÃO'):
 	st.table(rank)
 
-if col2.button('Clique aqui para ver a listagem de todas as submissões '):
+if col2.button('Clique aqui para ver a LISTAGEM DE TODAS AS SUBMISSÕES'):
 	st.write(subm)
 
 st.markdown('---') 
