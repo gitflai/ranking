@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run custos.py
+web: sh setup.sh && streamlit run ranking.py
