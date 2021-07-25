@@ -1,4 +1,5 @@
 Nome,Submissão,Turma,F1-Score
+Julio Cesar Okuda,3,Turma 4,0.9485
 Julio Cesar Okuda,2,Turma 4,0.9485
 André Carpinteiro do Amaral,4,Turma 4,0.93817
 Antônio Fernandes Júnior,1,Turma 1,0.93686
@@ -23,8 +24,8 @@ André Carpinteiro do Amaral,2,Turma 4,0.93218
 Victor Sponchiado,1,Turma 4,0.93174
 Robert Ferro,3,Turma 4,0.93146
 Emmanuel Orestes Torres,4,Turma 4,0.93096
-Robert Ferro,2,Turma 4,0.93096
 Robert Ferro,1,Turma 4,0.93096
+Robert Ferro,2,Turma 4,0.93096
 Cristiane Fragata,4,Turma 3,0.93073
 Leandro Coelho,3,Turma 3,0.93037
 Julio Cesar Okuda,1,Turma 4,0.92993
@@ -38,12 +39,15 @@ Victor Sponchiado,5,Turma 4,0.9262
 Alessandro S. Angeruzzi,3,Turma 4,0.92612
 Jonas Hendler Carlos,1,Turma 4,0.92467
 Cristiane Fragata,1,Turma 3,0.92384
+Carla,2,Turma 4,0.92333
+Victor Araújo,4,Turma 4,0.92295
 Victor Araújo,3,Turma 4,0.92054
 André Carpinteiro do Amaral,3,Turma 4,0.91952
 Luiz Claudio Benck,2,Turma 4,0.91941
 Jonas Hendler Carlos,3,Turma 4,0.91903
 Pedro Costa,1,Turma 4,0.91722
 Antonio Carlos Lemos Júnior,2,Turma 3,0.91653
+Jonas Hendler Carlos,4,Turma 4,0.91615
 Luiz Claudio Benck,4,Turma 4,0.91588
 Luiz Claudio Benck,3,Turma 4,0.91549
 Cristiane Fragata,2,Turma 3,0.91341
@@ -57,6 +61,7 @@ Emmanuel Orestes Torres,1,Turma 4,0.8035
 Emmanuel Orestes Torres,3,Turma 4,0.79213
 Luiz Claudio Benck,1,Turma 4,0.78658
 Ricardo Rocha,2,Sem Turma,0.77447
+Rogério Delfim,2,Turma 3,0.74295
 Rogério Delfim,1,Turma 3,0.71518
 Rafael Batista Costa,1,Turma 4,0.70574
 Ricardo Rocha,1,Sem Turma,0.48699
