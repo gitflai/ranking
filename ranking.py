@@ -16,7 +16,7 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 st.markdown('''
 	# Ranking da 4ª Competição de Machine Learning FLAI 
 
-	###### *Última Atualização: 24/07/2021
+	###### *Última Atualização: 25/07/2021
 	
 	---
 ''')
