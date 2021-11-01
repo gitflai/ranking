@@ -4,7 +4,7 @@ import emoji
 import st_aggrid as stg 
 
 
-st.set_page_config(page_title = 'RESULTADO FINAL - 5ª Competição de ML FLAI', 
+st.set_page_config(page_title = 'RESULTADOS PARCIAIS - 6ª Competição de ML FLAI', 
 				   page_icon = 'iconeflai.png' ,
 				   layout = 'centered', 
 				   initial_sidebar_state = 'collapsed')
@@ -14,9 +14,10 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 
 
 st.markdown('''
-	# Ranking da 5ª Competição de Machine Learning FLAI 
+	# Ranking da 6ª Competição de Machine Learning FLAI 
 
-	###### *Última Atualização: 19/09/2021
+	###### *Deadline das Submissões: 20/11/2021 às 20h
+	###### *Última Atualização: 01/11/2021
 	
 	---
 ''')
