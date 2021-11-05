@@ -17,7 +17,7 @@ st.markdown('''
 	# Ranking da 6ª Competição de Machine Learning FLAI 
 
 	###### *Deadline das Submissões: 20/11/2021 às 20h
-	###### *Última Atualização: 01/11/2021
+	###### *Última Atualização: 05/11/2021
 	
 	---
 ''')
