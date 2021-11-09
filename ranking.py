@@ -16,9 +16,7 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 st.markdown('''
 	# Ranking da 6ª Competição de Machine Learning FLAI 
 
-	###### *Deadline das Submissões: 20/11/2021 às 20h
-	###### *Última Atualização: 07/11/2021
-	
+	###### *Deadline das Submissões: 20/11/2021 às 20h 
 	---
 ''')
 
