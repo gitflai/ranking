@@ -1,27 +1,36 @@
 Nome,Submissão,Turma,F1-Score
 André Carpinteiro do Amaral,1,Turma 4,0.86559
 André Carpinteiro do Amaral,2,Turma 4,0.86219
+Victor Sponchiado,5,Turma 4,0.83825
 Rafael Batista,3,Turma 4,0.83497
+Julio Okuda,4,Turma 4,0.82558
+Julio Okuda,4,Turma 4,0.82558
 Julio Okuda,2,Turma 4,0.82313
+Victor Sponchiado,7,Turma 4,0.82079
 Rafael Batista,2,Turma 4,0.80246
 Victor Sponchiado,2,Turma 4,0.80214
 Rafael Batista,4,Turma 4,0.79964
 Julio Okuda,1,Turma 4,0.79543
+Victor Sponchiado,8,Turma 4,0.79428
 Julio Okuda,3,Turma 4,0.78599
 Rafael Batista,1,Turma 4,0.78536
+Julio Okuda,5,Turma 4,0.78261
 Victor Sponchiado,3,Turma 4,0.78223
 Victor Sponchiado,4,Turma 4,0.76895
+Victor Sponchiado,6,Turma 4,0.76775
 Leandro Coelho,4,Turma 3,0.76712
 Victor Sponchiado,1,Turma 4,0.7644
 Leandro Coelho,1,Turma 3,0.74116
 Leandro Coelho,5,Turma 3,0.73008
 Maiara M,2,Turma 2,0.72904
 Alex Leandro Oliveira,6,Turma 5,0.72077
+Leandro Coelho,7,Turma 3,0.71746
 Alex Leandro Oliveira,4,Turma 5,0.70196
 Alex Leandro Oliveira,3,Turma 5,0.69617
 Carla Guimarães Teixeira,2,Turma 4,0.69556
 Alex Leandro Oliveira,7,Turma 5,0.69444
 Alex Leandro Oliveira,5,Turma 5,0.69352
+Edson Luis Deodato,7,Turma 5,0.69115
 Edson Luis Deodato,5,Turma 5,0.69058
 Eduardo Victor Lima Barboza,2,Turma 6,0.68959
 Alex Leandro Oliveira,1,Turma 5,0.68725
@@ -31,6 +40,9 @@ Eduardo Victor Lima Barboza,4,Turma 6,0.67797
 Vinicius Jacobs,4,Turma 6,0.67273
 Vinicius Jacobs,1,Turma 6,0.67146
 Eduardo Victor Lima Barboza,1,Turma 6,0.67077
+Edson Luis Deodato,6,Turma 5,0.67063
+Rogério Delfim,2,Turma 3,0.66995
+Rogério Delfim,3,Turma 3,0.66925
 Marcos Kunyosi,3,Turma 6,0.66734
 Vinicius Jacobs,5,Turma 6,0.66599
 Vinicius Jacobs,6,Turma 6,0.66599
@@ -42,9 +54,11 @@ Vinicius Jacobs,2,Turma 6,0.65846
 Marcos Kunyosi,1,Turma 6,0.65768
 Jose Cavalcante,1,Turma 6,0.6574
 Maiara M,1,Turma 2,0.65538
+Eduardo Victor Lima Barboza,6,Turma 6,0.65511
 Vinicius Jacobs,3,Turma 6,0.65507
 Jose Cavalcante,4,Turma 6,0.65335
 Marcos Kunyosi,2,Turma 6,0.65032
+Eduardo Victor Lima Barboza,5,Turma 6,0.64646
 Leandro Coelho Delgado,3,Turma 3,0.62871
 Alex Leandro Oliveira,8,Turma 5,0.62579
 Edson Luis Deodato,4,Turma 4,0.62479
@@ -57,6 +71,8 @@ Rogério Delfim,1,Turma 3,0.58344
 Edson Luis Deodato,2,Turma 5,0.47209
 MICHAEL DA SILVA CRUZ,1,Turma 5,0.46279
 Orion Tasso,3,Turma 4,0.46069
+Orion Tasso,5,Turma 4,0.44986
+Orion Tasso,4,Turma 4,0.44938
 Orion Tasso,2,Turma 4,0.38505
 Ricardo Rocha,1,Sem Turma,0.38382
 Orion Tasso,1,Turma 4,0.35232
