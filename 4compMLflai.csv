@@ -1,8 +1,12 @@
 Nome,Submissão,Turma,F1-Score
 André Carpinteiro do Amaral,1,Turma 4,0.86559
 André Carpinteiro do Amaral,2,Turma 4,0.86219
+ALESSANDRO ANGERUZZI,9,Turma 4,0.85035
+ALESSANDRO ANGERUZZI,10,Turma 4,0.84629
+ALESSANDRO ANGERUZZI,8,Turma 4,0.84402
 ALESSANDRO ANGERUZZI,5,Turma 4,0.84265
 Victor Sponchiado,5,Turma 4,0.83825
+ALESSANDRO ANGERUZZI,7,Turma 4,0.83805
 Marcos Kunyosi,9,Turma 6,0.83697
 ALESSANDRO ANGERUZZI,4,Turma 4,0.83505
 Rafael Batista,3,Turma 4,0.83497
@@ -15,6 +19,7 @@ ALESSANDRO ANGERUZZI,6,Turma 4,0.82594
 Julio Okuda,4,Turma 4,0.82558
 Julio Okuda,4,Turma 4,0.82558
 Marcos Kunyosi,7,Turma 6,0.82423
+Marcos Kunyosi,10,Turma 6,0.82423
 Julio Okuda,2,Turma 4,0.82313
 Victor Sponchiado,7,Turma 4,0.82079
 ALESSANDRO ANGERUZZI,1,Turma 4,0.81749
@@ -22,6 +27,7 @@ Victor Sponchiado,9,Turma 4,0.81282
 Leandro Coelho,9,Turma 3,0.80914
 Marcos Kunyosi,8,Turma 6,0.80622
 Rafael Batista,5,Turma 4,0.80321
+Julio Okuda,9,Turma 4,0.80304
 Rafael Batista,2,Turma 4,0.80246
 Victor Sponchiado,2,Turma 4,0.80214
 Rafael Batista,4,Turma 4,0.79964
@@ -47,6 +53,7 @@ Victor Sponchiado,6,Turma 4,0.76775
 Leandro Coelho,4,Turma 3,0.76712
 Rafael Batista,8,Turma 4,0.76588
 Victor Sponchiado,1,Turma 4,0.7644
+Rafael Batista,10,Turma 4,0.75061
 Leandro Coelho,1,Turma 3,0.74116
 Eduardo Victor Lima Barboza,8,Turma 6,0.73722
 Eduardo Victor Lima Barboza,9,Turma 6,0.73066
@@ -78,8 +85,8 @@ Edson Luis Deodato,6,Turma 5,0.67063
 Rogério Delfim,2,Turma 3,0.66995
 Rogério Delfim,3,Turma 3,0.66925
 Marcos Kunyosi,3,Turma 6,0.66734
-Vinicius Jacobs,6,Turma 6,0.66599
 Vinicius Jacobs,5,Turma 6,0.66599
+Vinicius Jacobs,6,Turma 6,0.66599
 Leandro Coelho Delgado,2,Turma 3,0.66207
 Carla Guimarães Teixeira,1,Turma 4,0.66129
 Edson Luis Deodato,1,Turma 5,0.66057
@@ -106,8 +113,8 @@ Jose Cavalcante,2,Turma 6,0.61874
 Eduardo Victor Lima Barboza,3,Turma 6,0.6176
 MICHAEL DA SILVA CRUZ,2,Turma 5,0.61479
 Jose Cavalcante,3,Turma 6,0.60776
-Eduardo Martins de Castro e Souza,7,Turma 4,0.6012
 Eduardo Martins de Castro e Souza,8,Turma 4,0.6012
+Eduardo Martins de Castro e Souza,7,Turma 4,0.6012
 Eduardo Martins de Castro e Souza,2,Turma 4,0.59923
 Eduardo Martins de Castro e Souza,9,Turma 4,0.5935
 Rogério Delfim,1,Turma 3,0.58344
