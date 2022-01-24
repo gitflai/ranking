@@ -24,20 +24,20 @@ rank = pd.read_csv('4compMLflairank.csv')
 subm = pd.read_csv('4compMLflai.csv')
 
 
-#rank.index = rank['Nome']
-#rank.drop(['Nome'], axis = 1, inplace = True)
+rank.index = rank['Nome']
+rank.drop(['Nome'], axis = 1, inplace = True)
 
-st.markdown('Em manutenção... :poop:')
+#st.markdown('Em manutenção... :poop:')
 
-#col1, col2 = st.beta_columns(2) 
+col1, col2 = st.beta_columns(2) 
 
-#if col1.button('RANKING GERAL DA COMPETIÇÃO'):
-#	st.markdown('---') 
-#	st.write(rank.to_html(index=False), unsafe_allow_html=True)
+if col1.button('RANKING GERAL DA COMPETIÇÃO'):
+	st.markdown('---') 
+	st.write(rank.to_html(index=False), unsafe_allow_html=True)
 
-#if col2.button('LISTAGEM DE TODAS AS SUBMISSÕES'):
-#	st.markdown('---') 
-#	stg.AgGrid(subm.round(5), height = 800, fit_columns_on_grid_load = True)
+if col2.button('LISTAGEM DE TODAS AS SUBMISSÕES'):
+	st.markdown('---') 
+	stg.AgGrid(subm.round(5), height = 800, fit_columns_on_grid_load = True)
 
 st.markdown('---') 
 
