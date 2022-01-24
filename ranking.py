@@ -24,8 +24,8 @@ rank = pd.read_csv('4compMLflairank.csv')
 subm = pd.read_csv('4compMLflai.csv')
 
 
-rank.index = rank['Nome']
-rank.drop(['Nome'], axis = 1, inplace = True)
+#rank.index = rank['Nome']
+#rank.drop(['Nome'], axis = 1, inplace = True)
 
 #st.markdown('Em manutenção... :poop:')
 
