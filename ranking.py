@@ -16,7 +16,7 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 st.markdown('''
 	# Ranking da 8ª Competição de Machine Learning FLAI 
 
-	###### *Deadline 27/03!
+	###### *Nova Deadline! 31/03 - 20h!
 	---
 ''')
 
