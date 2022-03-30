@@ -1,12 +1,15 @@
 Nome,Submissão,Turma,F1
 4N0N1M0U5,9,Turma 1,0.80241
 Antonio Fernandes,2,Turma 1,0.80019
+Victor Sponchiado,9,Turma 4,0.7999 
 ANDREA LIMA,4,Turma 7,0.79972
 Victor Sponchiado,1,Turma 4,0.7996
 Adriana K. Takahagui,8,Turma 7,0.79953
 Julio Okuda,3,Turma 4,0.79951
 Camila Maestrelli,6,Turma 7,0.79933
 Julio Okuda,4,Turma 4,0.79869
+Victor Sponchiado,10,Turma 4,0.79866 
+Adriana K. Takahagui,9,Turma 7,0.7986 
 Camila Maestrelli,8,Turma 7,0.79818
 Camila Maestrelli,2,Turma 7,0.79798
 Jack_Sparrow_dos_Dados,1,Turma 3,0.79792
@@ -16,6 +19,7 @@ Adriano Galutti,6,Turma 8,0.79757
 Camila Maestrelli,5,Turma 7,0.79752
 Camila Maestrelli,7,Turma 7,0.7975
 Adriana K. Takahagui,7,Turma 7,0.79741
+Rogério Delfim,3,Turma 4,0.7972 
 Doglas Borges,5,Turma 6,0.79718
 Antonio Fernandes,1,Turma 1,0.79682
 Haroldo,1,Turma 8,0.79664
@@ -34,6 +38,7 @@ Adriano Galutti,1,Turma 8,0.79478
 Matheus Pfeifer,2,Turma 6,0.79458
 Matheus Pfeifer,1,Turma 6,0.79449
 Camila Maestrelli,3,Turma 7,0.79438
+Edson Luis Deodato,8,Turma 5,0.79397 
 Camila Maestrelli,4,Turma 7,0.79386
 Gabriel Maciel,5,Turma 8,0.79373
 ANDREA LIMA,7,Turma 7,0.79348
@@ -49,11 +54,13 @@ ANDREA LIMA,5,Turma 7,0.79259
 Adriana K. Takahagui,2,Turma 7,0.79231
 Adriana K. Takahagui,3,Turma 7,0.79231
 Doglas Borges,1,Turma 6,0.79229
+André Amaral,4,Turma 4,0.79217
 Leonardo,1,Turma 7,0.79214
 4N0N1M0U5,1,Turma 1,0.79212
 Gabriel Maciel,3,Turma 8,0.79196
 Gabriel Maciel,4,Turma 8,0.79183
 Haroldo,5,Turma 8,0.79171
+André Amaral,5,Turma 4,0.79147 
 Marina Vanoni,4,Turma 8,0.79125
 Julio Okuda,2,Turma 4,0.79123
 4N0N1M0U5,4,Turma 1,0.79116
@@ -65,7 +72,6 @@ Julio Okuda,8,Turma 4,0.78985
 ANDREA LIMA,8,Turma 7,0.78981
 Adriana K. Takahagui,5,Turma 7,0.78964
 Edson Luis Deodato,1,Turma 5,0.78907
-Gabriel Maciel,2,Turma 8,0.789
 Victor Sponchiado,4,Turma 4,0.78885
 Victor Sponchiado,8,Turma 4,0.78852
 Orion Tasso,5,Turma 4,0.78849
@@ -83,6 +89,7 @@ Julio Okuda,1,Turma 4,0.78627
 Victor Araújo,5,Turma 4,0.78608
 Orion Tasso,4,Turma 4,0.78577
 Haroldo,9,Turma 8,0.78537
+Antonio Fernandes Junior,3,Turma 1,0.78518 
 Victor Araújo,8,Turma 4,0.78475
 4N0N1M0U5,7,Turma 1,0.78387
 Victor Sponchiado,2,Turma 4,0.78286
@@ -94,8 +101,11 @@ Orion Tasso,7,Turma 4,0.78032
 Victor Araújo,4,Turma 4,0.77945
 Adriano Galutti,9,Turma 8,0.77869
 Victor Sponchiado,3,Turma 4,0.77805
+Adriano Galutti,10,Turma 8,0.77723 
 Leonardo,2,Turma 7,0.77597
 Doglas Borges,2,Turma 6,0.77588
+Marina Vanoni,5,Turma 8,0.77584 
+Victor Sponchiado,7,Turma 4,0.77554 
 Orion Tasso,6,Turma 4,0.77517
 Adriano Galutti,8,Turma 8,0.77341
 Victor Araújo,3,Turma 4,0.77117
@@ -107,11 +117,13 @@ Julio Okuda,5,Turma 4,0.76915
 Victor Araújo,2,Turma 4,0.76756
 Leandro Coelho,1,Turma 3,0.76567
 Leandro Coelho,2,Turma 3,0.76372
+Camila Maestrelli,10,Turma 7,0.7566 
 Edson Luis Deodato,6,Turma 5,0.75457
 Orion Tasso,2,Turma 4,0.74853
 Orion Tasso,3,Turma 4,0.74839
 Edson Luis Deodato,4,Turma 5,0.73962
 Victor Araújo,12,Turma 4,0.72358
+4N0N1M0U5,10,Turma 1,0.7011 
 Victor Araújo,10,Turma 4,0.61396
 Victor Araújo,11,Turma 4,0.61029
 Adriano Galutti,7,Turma 8,0.60696
@@ -126,3 +138,4 @@ Gabriel Maciel,1,Turma 8,0.20146
 Ricardo Rocha,1,Sem Turma,0.20075
 Milson da Silva Sales,1,Turma 7,0.16658
 4N0N1M0U5,6,Turma 1,0.06676
+Gabriel Maciel,2,Turma 8,789
