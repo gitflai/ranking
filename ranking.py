@@ -23,6 +23,7 @@ st.markdown('''
 rank = pd.read_csv('4compMLflairank.csv')
 subm = pd.read_csv('4compMLflai.csv')
 liga = pd.read_csv('liga.csv')
+liga.rename(columns={'Etapa1': 'Etapa 1\n7ª Comp. de ML'}, inplace=True)
 
 #rank.index = rank['Nome']
 #rank.drop(['Nome'], axis = 1, inplace = True)
