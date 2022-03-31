@@ -22,14 +22,14 @@ st.markdown('''
 
 rank = pd.read_csv('4compMLflairank.csv')
 subm = pd.read_csv('4compMLflai.csv')
-
+liga = pd.read_csv('liga.csv')
 
 #rank.index = rank['Nome']
 #rank.drop(['Nome'], axis = 1, inplace = True)
 
 #st.markdown('Em manutenção... :poop:')
 
-col1, col2 = st.beta_columns(2) 
+col1, col2, col3 = st.beta_columns(3) 
 
 if col1.button('RANKING GERAL DA COMPETIÇÃO'):
 	st.markdown('---') 
@@ -38,6 +38,10 @@ if col1.button('RANKING GERAL DA COMPETIÇÃO'):
 if col2.button('LISTAGEM DE TODAS AS SUBMISSÕES'):
 	st.markdown('---') 
 	stg.AgGrid(subm.round(5), height = 800, fit_columns_on_grid_load = True)
+	
+if col3.button('PONTOS NA LIGA - PROVISÓRIO'):
+	st.markdown('---') 
+	st.write(liga.to_html(index=False), unsafe_allow_html=True)
 
 st.markdown('---') 
 
