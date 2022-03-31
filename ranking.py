@@ -43,6 +43,7 @@ if col2.button('LISTAGEM DE TODAS AS SUBMISSÕES'):
 	
 if col3.button('PONTOS NA LIGA - PROVISÓRIO'):
 	st.markdown('---') 
+	st.subheader('Resultado provisório, baseado na situação atual da competição vigente')
 	st.write(liga.to_html(index=False), unsafe_allow_html=True)
 
 st.markdown('---') 
