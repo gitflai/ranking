@@ -4,7 +4,7 @@ import emoji
 import st_aggrid as stg 
 
 
-st.set_page_config(page_title = '8ª Competição de ML FLAI', 
+st.set_page_config(page_title = '9ª Competição de ML FLAI', 
 				   page_icon = 'iconeflai.png' ,
 				   layout = 'centered', 
 				   initial_sidebar_state = 'collapsed')
@@ -14,7 +14,7 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 
 
 st.markdown('''
-	# Ranking da 8ª Competição de Machine Learning FLAI 
+	# Ranking da 9ª Competição de Machine Learning FLAI 
 
 	###### *Competição Finalizada!
 	---
