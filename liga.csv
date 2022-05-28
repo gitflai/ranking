@@ -1,17 +1,26 @@
-Nome,Turma,Posição,Etapa1,Etapa2,Pontos
-Camila Maestrelli,Turma 7,🥇,20,14,34
-Adriana K. Takahagui,Turma 7,🥈,14,9,23
-Antonio Fernandes Junior,Turma 1,🥉,0,20,20
-André Carpinteiro,Turma 4,4,17,0,17
-Marcos Kunyosi,Turma 6,5,0,17,17
-Leonardo Rodrigues,Turma 7,6,11,0,11
-Victor Sponchiado,Turma 4,7,9,2,11
-Alessandro Angeruzzi,Turma 4,8,0,11,11
-Doglas Borges,Turma 6,9,4,5,9
-Robert Ferro,Turma 4,10,7,0,7
-ANDREA LIMA,Turma 7,11,0,7,7
-Victor Araújo,Turma 4,12,5,0,5
-Rogério Delfim,Turma 4,13,0,4,4
-Rafael Batista,Turma 4,14,3,0,3
-Julio Okuda,Turma 4,15,0,3,3
-Stephanie Baía,Turma 2,16,2,0,2
+Nome,Turma,Posição,Etapa1,Etapa2,Etapa3,Pontos
+Adriana K. Takahagui,Turma 7,🥇,14,9,20,43
+Camila Maestrelli,Turma 7,🥈,20,14,0,34
+Antonio Fernandes Junior,Turma 1,🥉,0,20,0,20
+Antonio Macedo,Turma 9,4,0,0,17,17
+André Carpinteiro,Turma 4,5,17,0,0,17
+Marcos Kunyosi,Turma 6,6,0,17,0,17
+Gutieri Kioshi,Turma 9,7,0,0,14,14
+Luciano Marins,Turma 8,8,0,0,11,11
+Alessandro Angeruzzi,Turma 4,9,0,11,0,11
+Victor Sponchiado,Turma 4,10,9,2,0,11
+Leonardo Rodrigues,Turma 7,11,11,0,0,11
+Doglas Borges,Turma 6,12,4,5,0,9
+Jussara da Silva,Turma 8,13,0,0,9,9
+ANDREA LIMA,Turma 7,14,0,7,0,7
+Robert Ferro,Turma 4,15,7,0,0,7
+Claudemir Alvarenga,Turma 9,16,0,0,7,7
+Victor Araújo,Turma 4,17,5,0,0,5
+Silmara Akizawa,Turma 9,18,0,0,5,5
+Rogério Delfim,Turma 4,19,0,4,0,4
+Welington Fonseca,Turma 9,20,0,0,4,4
+Rafael Batista,Turma 4,21,3,0,0,3
+Julio Okuda,Turma 4,22,0,3,0,3
+Haroldo de Moraes,Turma 8,23,0,0,3,3
+Stephanie Baía,Turma 2,24,2,0,0,2
+Adilson Sitko,Turma 9,25,0,0,2,2
