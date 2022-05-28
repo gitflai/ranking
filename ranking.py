@@ -16,7 +16,7 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 st.markdown('''
 	# Ranking da 9ª Competição de Machine Learning FLAI 
 
-	###### *Competição Finalizada!
+	###### Deadline: 19/06/2022 às 20h!
 	---
 ''')
 
