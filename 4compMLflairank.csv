@@ -1,3 +1,5 @@
-Nome,RMSE,Turma,Submissão
-Marcos Kunyosi,256.55,Turma 6,1
-Ricardo Rocha,511.5,Turma 1,1
+Nome,Turma,RMSE,Posição,Medalha
+Angeruzzi,Turma 4,193.8,1,🥇
+Marcos Kunyosi,Turma 6,256.55,2,🥈
+Eduardo V,Turma 6,307.49,3,🥉
+Ricardo Rocha,Turma 1,511.5,4, 
