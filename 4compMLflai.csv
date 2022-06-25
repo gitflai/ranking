@@ -1,5 +1,6 @@
 Nome,Submissão,Turma,RMSE
 Angeruzzi,1,Turma 4,193.8
+Camila Maestrelli,8,Turma 7,209.08
 Camila Maestrelli,5,Turma 7,215.33
 Camila Maestrelli,7,Turma 7,215.92
 Camila Maestrelli,6,Turma 7,216.64
@@ -22,8 +23,9 @@ Angeruzzi,3,Turma 4,236.2
 Angeruzzi,2,Turma 4,236.53
 Marcos Kunyosi,6,Turma 6,238.29
 Gutieri,5,Turma 9,239.09
-Doglas Borges,3,Turma 6,240.14
+Rogério Delfim,6,Turma 4,239.76
 Marcos Kunyosi,3,Turma 6,240.14
+Doglas Borges,3,Turma 6,240.14
 Rogério Delfim,5,Turma 4,241.2
 Marcos Kunyosi,7,Turma 6,241.83
 Doglas Borges,6,Turma 6,242.35
@@ -31,6 +33,7 @@ Doglas Borges,1,Turma 6,242.75
 Doglas Borges,4,Turma 6,246.24
 Israel,9,Turma 9,246.7
 Rogério Delfim,1,Turma 4,247.78
+Leonardo,2,Turma 7,248.6
 Adriana K. Takahagui,2,Turma 7,248.65
 Gutieri,7,Turma 9,249.05
 Adriana K. Takahagui,4,Turma 7,252.35
@@ -49,6 +52,7 @@ Gutieri,1,Turma 9,262.09
 Orion Tasso,1,Turma 4,263.35
 Gutieri,3,Turma 9,265.3
 Gabriel Maciel,2,Turma 8,265.56
+Adriana K. Takahagui,7,Turma 7,266.44
 Israel,10,Turma 9,268.38
 Antonio Fernando Lavinas Macedo,1,Turma 9,270.42
 Isabela Rossetti,2,Turma 6,270.82
@@ -62,6 +66,7 @@ Rogério Delfim,3,Turma 4,307.31
 Eduardo V,1,Turma 6,307.49
 Gustavo Leal Gombio Machado,2,Turma 9,313.46
 Rogério Delfim,2,Turma 4,317.79
+Doglas Borges,9,Turma 6,324.12
 Marina Vanoni,2,Turma 8,334.15
 Antonio Fernando Lavinas Macedo,2,Turma 9,335.41
 Gutieri,2,Turma 9,341.06
@@ -69,11 +74,11 @@ Marina Vanoni,3,Turma 8,343.64
 Leonardo,1,Turma 7,355.84
 Milson da Silva Sales,2,Turma 7,388.61
 Milson da Silva Sales,1,Turma 7,408.14
-Milson da Silva Sales,4,Turma 7,450.73
 Milson da Silva Sales,3,Turma 7,450.73
+Milson da Silva Sales,4,Turma 7,450.73
 Adriana K. Takahagui,6,Turma 7,508.62
-Silmara Akizawa,1,Turma 9,511.5
 Ricardo Rocha,1,Turma 1,511.5
+Silmara Akizawa,1,Turma 9,511.5
 Israel,3,Turma 9,546.68
 Israel,6,Turma 9,547.77
 Eduardo Martins de Castro e Souza,1,Turma 4,643.49
@@ -81,6 +86,8 @@ Israel,7,Turma 9,647.6
 Israel,2,Turma 9,661.19
 Israel,4,Turma 9,718.4
 Daniel Tengnom,2,Turma 5,720.55
+Angeruzzi,5,Turma 4,884.25
+Ana Paula,2,Turma 7,956.87
 Ana Paula,1,Turma 7,957.11
 Daniel Tengnom,2,Turma 5,957.62
 Marina Vanoni,1,Turma 8,3687.38
