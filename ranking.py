@@ -4,7 +4,7 @@ import emoji
 import st_aggrid as stg 
 
 
-st.set_page_config(page_title = '9ª Competição de ML FLAI', 
+st.set_page_config(page_title = '10ª Competição de ML FLAI', 
 				   page_icon = 'iconeflai.png' ,
 				   layout = 'centered', 
 				   initial_sidebar_state = 'collapsed')
