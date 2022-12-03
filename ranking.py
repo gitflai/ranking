@@ -15,8 +15,6 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 
 st.markdown('''
 	# Ranking da 10ª Competição de Machine Learning FLAI 
-
-	## EM BREVE!
 	---
 ''')
 
@@ -31,18 +29,18 @@ liga = pd.read_csv('liga.csv')
 
 col1, col2, col3 = st.beta_columns(3) 
 
-#if col1.button('RANKING GERAL DA COMPETIÇÃO'):
-#	st.markdown('---') 
-#	st.write(rank.to_html(index=False), unsafe_allow_html=True)
+if col1.button('RANKING GERAL DA COMPETIÇÃO'):
+	st.markdown('---') 
+	st.write(rank.to_html(index=False), unsafe_allow_html=True)
 
-#if col2.button('LISTAGEM DE TODAS AS SUBMISSÕES'):
-#	st.markdown('---') 
-#	stg.AgGrid(subm.round(5), height = 800, fit_columns_on_grid_load = True)
+if col2.button('LISTAGEM DE TODAS AS SUBMISSÕES'):
+	st.markdown('---') 
+	stg.AgGrid(subm.round(5), height = 800, fit_columns_on_grid_load = True)
 	
-#if col3.button('PONTOS NA LIGA'):
-#	st.markdown('---') 
-#	st.subheader('Resultado provisório, baseado na situação atual da competição vigente')
-#	st.write(liga.to_html(index=False), unsafe_allow_html=True)
+if col3.button('PONTOS NA LIGA'):
+	st.markdown('---') 
+	st.subheader('Resultado provisório, baseado na situação atual da competição vigente')
+	st.write(liga.to_html(index=False), unsafe_allow_html=True)
 
 st.markdown('---') 
 
