@@ -1,26 +1,5 @@
-Nome,Turma,RMSE,Posição,Medalha
-Angeruzzi,Turma 4,225.92,1,🥇
-Camila Maestrelli,Turma 7,239.37,2,🥈
-Marcos Kunyosi,Turma 6,255.88,3,🥉
-Julio Okuda,Turma 4,256.08,4, 
-Rogério Delfim,Turma 4,257.38,5, 
-Isabela Rossetti,Turma 6,257.77,6, 
-Doglas Borges,Turma 6,260.02,7, 
-Gutieri,Turma 9,261.7,8, 
-Israel,Turma 9,271.91,9, 
-Adriana K. Takahagui,Turma 7,275.29,10, 
-Gustavo Leal Gombio Machado,Turma 9,280.03,11, 
-Leonardo,Turma 7,280.05,12, 
-Orion Tasso,Turma 4,293.67,13, 
-Gabriel Maciel,Turma 8,294.61,14, 
-Antonio Fernando Lavinas Macedo,Turma 9,297.38,15, 
-Silmara Akizawa,Turma 9,310.29,16, 
-Marina Vanoni,Turma 8,315.46,17, 
-Eduardo V,Turma 6,335.49,18, 
-Juliana Midlej,Turma 9,389.07,19, 
-Milson da Silva Sales,Turma 7,400.09,20, 
-Ricardo Rocha,Turma 1,540.87,21, 
-Eduardo Martins de Castro e Souza,Turma 4,650.5,22, 
-Henrique Rezer Mosquér,Turma 9,673.12,23, 
-Daniel Tengnom,Turma 5,731.98,24, 
-Ana Paula,Turma 7,956.28,25, 
+Nome,Turma,F1,Posição,Medalha
+omar  marca,Turma 11,0.72713,1,🥇
+Marcos Kunyosi,Turma 6,0.71018,2,🥈
+Mauricio Haruo Matsumura,Turma 11,0.6963,3,🥉
+Ricardo Rocha,Fora de Turma,0.19003,4, 
