@@ -1,34 +1,38 @@
-Nome,Turma,Posição,Etapa1 (7ª Comp.ML),Etapa2 (8ª Comp.ML),Etapa3 (3ª Dataviz),Etapa4 (9ª Comp.ML),Etapa5 (4ª Dataviz),Pontos
-Camila Maestrelli,Turma 7,🥇,20,14,0,17,14,65
-Adriana K. Takahagui,Turma 7,🥈,14,9,20,2,20,65
-Marcos Kunyosi,Turma 6,🥉,0,17,0,14,3,34
-Alessandro Angeruzzi,Turma 4,4,0,11,0,20,0,31
-Gutieri Kioshi,Turma 9,5,0,0,14,4,9,27
-Antonio Fernandes Junior,Turma 1,6,0,20,0,0,0,20
-André Carpinteiro,Turma 4,7,17,0,0,0,0,17
-Antonio Macedo,Turma 9,8,0,0,17,0,0,17
-Gean Carlos,Turma 10 MLD,9,0,0,0,0,17,17
-Doglas Borges,Turma 6,10,4,5,0,5,0,14
-Julio Okuda,Turma 4,11,0,3,0,11,0,14
-Rogério Delfim,Turma 4,12,0,4,0,9,0,13
-Luciano Marins,Turma 8,13,0,0,11,0,0,11
-Victor Sponchiado,Turma 4,14,9,2,0,0,0,11
-Leonardo Rodrigues,Turma 7,15,11,0,0,0,0,11
-Victor Lucas,Turma 10 MLD,16,0,0,0,0,11,11
-Jussara da Silva,Turma 8,17,0,0,9,0,0,9
-Claudemir Alvarenga,Turma 9,18,0,0,7,0,0,7
-Isabela Rossetti,Turma 6,19,0,0,0,7,0,7
-ANDREA LIMA,Turma 7,20,0,7,0,0,0,7
-Robert Ferro,Turma 4,21,7,0,0,0,0,7
-Josenildo Junior,Turma 11,22,0,0,0,0,7,7
-Victor Araújo,Turma 4,23,5,0,0,0,0,5
-Silmara Akizawa,Turma 9,24,0,0,5,0,0,5
-Matheus Araujo,Turma 11,25,0,0,0,0,5,5
-Welington Fonseca,Turma 9,26,0,0,4,0,0,4
-David Alex Silva de Oliveira,Turma 11,27,0,0,0,0,4,4
-Rafael Batista,Turma 4,28,3,0,0,0,0,3
-Haroldo de Moraes,Turma 8,29,0,0,3,0,0,3
-Israel,Turma 9,30,0,0,0,3,0,3
-Stephanie Baía,Turma 2,31,2,0,0,0,0,2
-Adilson Sitko,Turma 9,32,0,0,2,0,0,2
-SAYMON NICOLAS MATOS DE BARROS,Turma 11,33,0,0,0,0,2,2
+Nome,Turma,Posição,Etapa1 (7ª Comp.ML),Etapa2 (8ª Comp.ML),Etapa3 (3ª Dataviz),Etapa4 (9ª Comp.ML),Etapa5 (4ª Dataviz),Etapa6 (10ª Comp.ML),Pontos
+Adriana K. Takahagui,Turma 7,1,14,9,20,2,20,20,85
+Camila Maestrelli,Turma 7,2,20,14,0,17,14,17,82
+Marcos Kunyosi,Turma 6,3,0,17,0,14,3,14,48
+Alessandro Angeruzzi,Turma 4,4,0,11,0,20,0,3,34
+Gutieri Kioshi,Turma 9,5,0,0,14,4,9,0,27
+Rogério Delfim,Turma 4,6,0,4,0,9,0,11,24
+Gean Carlos,Turma 10 MLD,7,0,0,0,0,17,4,21
+Antonio Fernandes Junior,Turma 1,8,0,20,0,0,0,0,20
+André Carpinteiro,Turma 4,9,17,0,0,0,0,0,17
+Antonio Macedo,Turma 9,10,0,0,17,0,0,0,17
+Doglas Borges,Turma 6,11,4,5,0,5,0,0,14
+Julio Okuda,Turma 4,12,0,3,0,11,0,0,14
+Leonardo Rodrigues,Turma 7,13,11,0,0,0,0,0,11
+Luciano Marins,Turma 8,14,0,0,11,0,0,0,11
+Victor Lucas,Turma 10 MLD,15,0,0,0,0,11,0,11
+Victor Sponchiado,Turma 4,16,9,2,0,0,0,0,11
+Jussara da Silva,Turma 8,17,0,0,9,0,0,0,9
+Mauricio Haruo Matsumura,,18,0,0,0,0,0,9,9
+ANDREA LIMA,Turma 7,19,0,7,0,0,0,0,7
+Claudemir Alvarenga,Turma 9,20,0,0,7,0,0,0,7
+Isabela Rossetti,Turma 6,21,0,0,0,7,0,0,7
+Josenildo Junior,Turma 11,22,0,0,0,0,7,0,7
+Robert Ferro,Turma 4,23,7,0,0,0,0,0,7
+Alexandre Wanderley,,24,0,0,0,0,0,7,7
+Matheus Araujo,Turma 11,25,0,0,0,0,5,0,5
+Silmara Akizawa,Turma 9,26,0,0,5,0,0,0,5
+Victor Araújo,Turma 4,27,5,0,0,0,0,0,5
+omar marca,,28,0,0,0,0,0,5,5
+David Alex Silva de Oliveira,Turma 11,29,0,0,0,0,4,0,4
+Haroldo de Moraes,Turma 8,30,0,0,3,0,0,0,3
+Israel,Turma 9,31,0,0,0,3,0,0,3
+Rafael Batista,Turma 4,32,3,0,0,0,0,0,3
+Adilson Sitko,Turma 9,33,0,0,2,0,0,0,2
+SAYMON NICOLAS MATOS DE BARROS,Turma 11,34,0,0,0,0,2,0,2
+Stephanie Baía,Turma 2,35,2,0,0,0,0,0,2
+Jeferson Chalegre Navarro,,36,0,0,0,0,0,2,2
+Welington Fonseca,Turma 9,37,0,0,0,0,0,0,0
