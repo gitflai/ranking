@@ -16,7 +16,7 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 st.markdown('''
 	# Ranking Parcial da 11ª Competição de Machine Learning FLAI 
 	
-	## itstimetoflai!
+	## _itstimetoflai!_
 	---
 ''')
 
