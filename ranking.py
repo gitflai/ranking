@@ -4,7 +4,7 @@ import emoji
 import st_aggrid as stg 
 
 
-st.set_page_config(page_title = '10ª Competição de ML FLAI', 
+st.set_page_config(page_title = '11ª Competição de ML FLAI', 
 				   page_icon = 'iconeflai.png' ,
 				   layout = 'centered', 
 				   initial_sidebar_state = 'collapsed')
@@ -14,22 +14,22 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 
 
 st.markdown('''
-	# Resultados Finais da 10ª Competição de Machine Learning FLAI 
+	# Ranking Parcial da 11ª Competição de Machine Learning FLAI 
 	
-	## Parabéns a todos que participaram!
+	## itstimetoflai!
 	---
 ''')
 
-rank = pd.read_csv('4compMLflairank.csv')
-subm = pd.read_csv('4compMLflai.csv')
-liga = pd.read_csv('liga.csv') 
+rank = pd.read_csv('ranking.csv')
+subm = pd.read_csv('submissoes.csv')
+#liga = pd.read_csv('liga.csv') 
 
 #rank.index = rank['Nome']
 #rank.drop(['Nome'], axis = 1, inplace = True)
 
 #st.markdown('Em manutenção... :poop:')
 
-col1, col2, col3 = st.beta_columns(3) 
+col1, col2 = st.beta_columns(2) 
 
 if col1.button('RANKING GERAL DA COMPETIÇÃO'):
 	st.markdown('---') 
@@ -39,10 +39,10 @@ if col2.button('LISTAGEM DE TODAS AS SUBMISSÕES'):
 	st.markdown('---') 
 	stg.AgGrid(subm.round(5), height = 800, fit_columns_on_grid_load = True)
 	
-if col3.button('PONTOS NA LIGA'):
-	st.markdown('---') 
-	st.subheader('Resultado provisório, baseado na situação atual da competição vigente')
-	st.write(liga.to_html(index=False), unsafe_allow_html=True)
+#if col3.button('PONTOS NA LIGA'):
+#	st.markdown('---') 
+#	st.subheader('Resultado provisório, baseado na situação atual da competição vigente')
+#	st.write(liga.to_html(index=False), unsafe_allow_html=True)
 
 st.markdown('---') 
 
