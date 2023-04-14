@@ -16,7 +16,12 @@ st.image('bannerflai.jpg', use_column_width = 'always')
 st.markdown('''
 	# Ranking Parcial da 11ª Competição de Machine Learning FLAI 
 	
-	## _itstimetoflai!_
+	## #_itstimetoflai!_
+	
+	Acesse:
+	
+	[Guia de Submissão](https://drive.google.com/file/d/13Sjmd6HuzWGSycNsgLv9wuu3ycYB76Mv/view?usp=sharing) - 
+	[Formulário de Submissão](https://forms.gle/PAs2ScyRiLiaTKCXA)
 	---
 ''')
 
