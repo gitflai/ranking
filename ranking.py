@@ -20,7 +20,8 @@ st.markdown('''
 	
 	Acesse:
 	
-	[Guia de Submissão](https://drive.google.com/file/d/13Sjmd6HuzWGSycNsgLv9wuu3ycYB76Mv/view?usp=sharing) - 
+	[Guia de Submissão](https://drive.google.com/file/d/13Sjmd6HuzWGSycNsgLv9wuu3ycYB76Mv/view?usp=sharing)
+	
 	[Formulário de Submissão](https://forms.gle/PAs2ScyRiLiaTKCXA)
 	---
 ''')
