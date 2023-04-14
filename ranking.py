@@ -18,6 +18,8 @@ st.markdown('''
 	
 	## #_itstimetoflai!_
 	
+	---
+	
 	Acesse:
 	
 	[Guia de Submissão](https://drive.google.com/file/d/13Sjmd6HuzWGSycNsgLv9wuu3ycYB76Mv/view?usp=sharing)
