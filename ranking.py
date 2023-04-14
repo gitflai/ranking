@@ -22,6 +22,8 @@ st.markdown('''
 	
 	Acesse:
 	
+	[Detalhes da Competição](https://drive.google.com/file/d/1RvP11zi87wltI4pQytpz4GZxIHCe5AT8/view?usp=sharing)
+	
 	[Guia de Submissão](https://drive.google.com/file/d/13Sjmd6HuzWGSycNsgLv9wuu3ycYB76Mv/view?usp=sharing)
 	
 	[Formulário de Submissão](https://forms.gle/PAs2ScyRiLiaTKCXA)
