@@ -2,8 +2,8 @@ Nome,Submissão,Programa,Métrica
 Jeferson Chalegre Navarro,5,DDS,0.81448
 Glaucio Cesar da Silva,3,DDS,0.81218
 omar,1,DDS,0.8
-Ivan de Oliveira Franco,6,LDS,0.8
 Wandersen Araujo,4,LDS,0.8
+Ivan de Oliveira Franco,6,LDS,0.8
 Glaucio Cesar da Silva,5,DDS,0.79381
 Alexandre Wanderley,2,DDS,0.79279
 Seiya de Pégaso,3,DDS,0.79091
@@ -15,8 +15,8 @@ Jeferson Chalegre Navarro,4,DDS,0.77885
 Ivan de Oliveira Franco,5,LDS,0.7767
 Isac Silva,3,DDS,0.77647
 Alexandre Wanderley,5,DDS,0.77477
-Isac Silva,5,DDS,0.77165
 Isac Silva,4,DDS,0.77165
+Isac Silva,5,DDS,0.77165
 omar,3,DDS,0.77119
 Ivan de Oliveira Franco,4,LDS,0.76856
 Seiya de Pégaso,1,DDS,0.76652
@@ -39,8 +39,8 @@ Henrique Rezer Mosquér,7,DDS,0.73408
 Mauricio Matsumura,4,DDS,0.73171
 Wandersen Araujo,3,LDS,0.72917
 Mauricio Matsumura,9,DDS,0.72642
-Marcos Kunyosi,1,LDS,0.72
 JAS,1,LDS,0.72
+Marcos Kunyosi,1,LDS,0.72
 Mauricio Matsumura,5,DDS,0.71921
 omar,2,DDS,0.71486
 Isac Silva,1,DDS,0.71042
@@ -96,10 +96,11 @@ Lucas Nunes Lopes,3,LDS,0.36364
 Caio Oliveira,1,LDS,0.36
 Raphael Domingos Cavalari Barbosa,5,LDS,0.33731
 Shuri,1,DDS,0.3128
+Shuri,2,DDS,0.29487
 Glaucio Cesar da Silva,1,DDS,0.27632
 Raphael Domingos Cavalari Barbosa,1,LDS,0.19231
-Ricardo Rocha,1,LDS,0.17778
 Ricardo Rocha,2,LDS,0.17778
+Ricardo Rocha,1,LDS,0.17778
 Henrique Rezer Mosquér,3,DDS,0.17181
 Raphael Domingos Cavalari Barbosa,2,LDS,0.16667
 Alexandre Wanderley,3,DDS,0.15217
