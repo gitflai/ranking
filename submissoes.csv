@@ -1,5 +1,6 @@
 Nome,Submissão,Programa,Métrica
 Mauricio Matsumura,11,DDS,0.84615
+Jeferson Chalegre Navarro,6,DDS,0.82407
 Jeferson Chalegre Navarro,5,DDS,0.81448
 Glaucio Cesar da Silva,3,DDS,0.81218
 Wandersen Araujo,4,LDS,0.8
@@ -7,6 +8,7 @@ omar,1,DDS,0.8
 Ivan de Oliveira Franco,6,LDS,0.8
 Glaucio Cesar da Silva,5,DDS,0.79381
 Alexandre Wanderley,2,DDS,0.79279
+Mauricio Matsumura,12,DDS,0.79227
 Seiya de Pégaso,3,DDS,0.79091
 Jeferson Chalegre Navarro,2,DDS,0.79024
 Glaucio Cesar da Silva,6,DDS,0.78788
@@ -16,8 +18,8 @@ Jeferson Chalegre Navarro,4,DDS,0.77885
 Ivan de Oliveira Franco,5,LDS,0.7767
 Isac Silva,3,DDS,0.77647
 Alexandre Wanderley,5,DDS,0.77477
-Isac Silva,5,DDS,0.77165
 Isac Silva,4,DDS,0.77165
+Isac Silva,5,DDS,0.77165
 omar,3,DDS,0.77119
 Eve,5,LDS,0.76923
 Ivan de Oliveira Franco,4,LDS,0.76856
@@ -43,8 +45,9 @@ Mauricio Matsumura,4,DDS,0.73171
 Wandersen Araujo,3,LDS,0.72917
 Mauricio Matsumura,9,DDS,0.72642
 Marcos Kunyosi,1,LDS,0.72
-Caio Oliveira,11,LDS,0.72
 JAS,1,LDS,0.72
+Caio Oliveira,11,LDS,0.72
+Janceles Araújo,2,LDS,0.72
 Mauricio Matsumura,5,DDS,0.71921
 omar,2,DDS,0.71486
 Isac Silva,1,DDS,0.71042
@@ -73,6 +76,7 @@ Eve,4,LDS,0.62802
 Caio Oliveira,8,LDS,0.60837
 Henrique Rezer Mosquér,8,DDS,0.60194
 Isac Silva,8,DDS,0.59215
+Alexandre Wanderley,12,DDS,0.57988
 Caio Oliveira,10,LDS,0.57303
 Isac Silva,9,DDS,0.56818
 Josenildo Junior,2,DDS,0.56232
@@ -108,10 +112,12 @@ Madison Felipe Sousa Quedevez,3,DDS,0.3494
 Raphael Domingos Cavalari Barbosa,5,LDS,0.33731
 Shuri,1,DDS,0.3128
 Shuri,2,DDS,0.29487
+Alexandre Wanderley,10,DDS,0.2807
+Alexandre Wanderley,11,DDS,0.2807
 Glaucio Cesar da Silva,1,DDS,0.27632
 Raphael Domingos Cavalari Barbosa,1,LDS,0.19231
-Ricardo Rocha,1,LDS,0.17778
 Ricardo Rocha,2,LDS,0.17778
+Ricardo Rocha,1,LDS,0.17778
 Henrique Rezer Mosquér,3,DDS,0.17181
 Raphael Domingos Cavalari Barbosa,2,LDS,0.16667
 Alexandre Wanderley,3,DDS,0.15217
