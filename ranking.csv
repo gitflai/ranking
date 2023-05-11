@@ -1,22 +1,20 @@
-Nome,Programa,Métrica,Posição,Medalha
-Mauricio Matsumura,DDS,0.84615,1,🥇
-Jeferson Chalegre Navarro,DDS,0.82407,2,🥈
-Glaucio Cesar da Silva,DDS,0.81218,3,🥉
-omar,DDS,0.8,4, 
-Ivan de Oliveira Franco,LDS,0.8,5, 
-Wandersen Araujo,LDS,0.8,6, 
-Alexandre Wanderley,DDS,0.79279,7, 
-Seiya de Pégaso,DDS,0.79091,8, 
-Isac Silva,DDS,0.77647,9, 
-Eve,LDS,0.76923,10, 
-Henrique Rezer Mosquér,DDS,0.74615,11, 
-JAS,LDS,0.72,12, 
-Janceles Araújo,LDS,0.72,13, 
-Caio Oliveira,LDS,0.72,14, 
-Marcos Kunyosi,LDS,0.72,15, 
-Lucas Nunes Lopes,LDS,0.69787,16, 
-Raphael Domingos Cavalari Barbosa,LDS,0.68313,17, 
-Josenildo Junior,DDS,0.56232,18, 
-Madison Felipe Sousa Quedevez,DDS,0.47887,19, 
-Shuri,DDS,0.3128,20, 
-Ricardo Rocha,LDS,0.17778,21, 
+Nome,Programa,Métrica (parcial),Métrica (total),Medalha
+Jeferson Chalegre Navarro,DDS,0.84615,0.87363,🥇
+Glaucio Cesar da Silva,DDS,0.81218,0.86043,🥈
+Mauricio Matsumura,DDS,0.84615,0.85623,🥉
+Eve,LDS,0.79602,0.84109, 
+Wandersen Araujo,LDS,0.82028,0.8228, 
+omar,DDS,0.8,0.8046, 
+Ivan de Oliveira Franco,LDS,0.8,0.8013, 
+Alexandre Wanderley,DDS,0.79279,0.78168, 
+Lucas Nunes Lopes,LDS,0.775,0.76072, 
+Caio Oliveira,LDS,0.76,0.75335, 
+Isac Silva,DDS,0.77647,0.73221, 
+Henrique Rezer Mosquér,DDS,0.74615,0.7198, 
+Madison Felipe Sousa Quedevez,DDS,0.66667,0.71403, 
+JAS,LDS,0.72,0.70773, 
+Janceles Araújo,LDS,0.72,0.70773, 
+Raphael Domingos Cavalari Barbosa,LDS,0.68313,0.63333, 
+Josenildo Junior,DDS,0.56232,0.57027, 
+Shuri,DDS,0.3128,0.34052, 
+Ricardo Rocha,LDS,0.17778,0.18454, 
